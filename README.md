@@ -1,1 +1,3 @@
 # voostech-flask-project
+    Task: Render static page and layout of your application  
+Description: This project to build the structure of the application. The idea is to render the HTML views as well as other assets like JS and CSS on your page. You will be required to use routes. The pages can is static for now. To maintain a consistent structure, a master page  was used to abstract the major layout. They Three created pages to utilise the master page: (home page, catalogue listing page and contact page, login and register). Feel free to add additional pages and to use publicly available website templates.
